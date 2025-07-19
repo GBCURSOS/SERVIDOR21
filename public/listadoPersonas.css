@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+}
+h1 {
+  color: #007acc;
+}
+ul {
+  background: #fff;
+  padding: 1em;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #ccc;
+}
+li {
+  margin-bottom: 0.5em;
+}
